@@ -1,0 +1,10 @@
+.contenedor-producto{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.imagen-producto{
+    width: 200px;
+    height: 100px;
+}
